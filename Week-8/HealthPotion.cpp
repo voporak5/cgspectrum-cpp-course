@@ -1,9 +1,5 @@
 #include "HealthPotion.h"
-
-/*void Item::Use(Character* character)
-{
-	character->Heal();
-}*/
+#include "Character.h"
 
 void HealthPotion::Use(Character* character)
 {

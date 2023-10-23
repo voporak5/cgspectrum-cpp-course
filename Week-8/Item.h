@@ -1,5 +1,7 @@
 #pragma once
-#include "Character.h"
+//#include "Character.h"
+
+class Character;
 
 class Item
 {
