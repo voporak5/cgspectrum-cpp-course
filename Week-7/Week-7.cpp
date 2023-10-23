@@ -93,6 +93,7 @@ int main()
 
     cout << endl;
 
+    //Dynamically allocate memory for this int
     int* pInt = new int{ 10 };
 
     //Free up the memory
